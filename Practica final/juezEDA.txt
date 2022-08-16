@@ -1,0 +1,10 @@
+Todos los problemas son aplicaciones de consola que leen los datos por la entrada estándar y escriben los resultados por la salida estándar.
+La entrada siempre se va a ajustar a lo que describa el enunciado, por lo que no hace falta preocuparse por eso.
+De igual forma, la salida debe ajustarse exactamente a lo que indique cada enunciado.
+Para cada problema, el juez dispone de un conjunto de casos de prueba.
+Cuando recibe el código de una supuesta solución, lo compila y lo ejecuta, enviándole por la entrada estándar esos casos de prueba.
+El programa escribirá en la salida estándar los resultados, que serán comparados por el juez con los resultados correctos, especificados por el profesor.
+El veredicto emitido dependerá del resultado de esa comparación.
+Es importante resaltar el hecho de que el juez automático exige que todos los programas acaben conéxito (resultado de ejecución 0).
+Esto supone que en las soluciones programadas en C o C++ es importante acabar la función main con un return 0.
+En otro caso, el juez dará como veredicto un error de ejecución.

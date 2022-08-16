@@ -1,0 +1,6 @@
+Bibliografía:
+John L. Hennessy &David A. Patterson,“Computer Architecture: A Quantitative Approach”, Morgan Kaufmann, 4º o 5ºed.
+David A. Patterson & John L. Hennessy, “Computer Organization and Design. The Hardware/Software Interface”, Morgan Kaufmann 5ºed.
+W. Stallings, “Computer Organization and Architecture”, 10ºed. Prentice Hall.
+B. Jacob, S.W. Ng, D.T. Wong, “Memory Systems. Cache, DRAM, Disk”, 1ºed. Morgan Kaufmann.
+S. Furber, “ARM System-on-Chip architecture”, 2ºed. Addison-Wesley.
